@@ -9,8 +9,8 @@ Evaluated on BCI Competition IV Dataset 2a (T session, 9 subjects, 4-class motor
 
 Classification inference latency decreased from 0.046 ± 0.007 ms/trial to **0.030 ± 0.011 ms/trial (~35% reduction)**. Across outer folds, the selected subset size was most frequently k = 20 (82.2% of folds), supporting low-latency deployment. These results highlight a favorable performance-complexity trade-off for multi-class MI EEG decoding.
 
-[Subject-wise macro-F1 scores](Subject-wise macro-F1 scores.png)
-[Mean macro-F1 across subjects](Mean macro-F1 across subjects.png) 
+[Figure_Baseline_Tonly_PerSubject_MacroF1](Figure_Baseline_Tonly_PerSubject_MacroF1.png)
 
+[Figure_Tonly_PerSubject_MacroF1](Figure_Tonly_PerSubject_MacroF1.png)
 
 ---
